@@ -1,15 +1,11 @@
 # Diabetes Linear Regression
 
-這個專案使用線性迴歸模型來預測糖尿病進展。
+使用線性迴歸模型預測糖尿病進展
 
 ## 需求
 
 - Python 3.x
 - scikit-learn
-
-## 安裝
-
-請確保已經安裝 `scikit-learn`：
 
 ## 使用方法
 
